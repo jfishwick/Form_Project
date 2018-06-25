@@ -1,9 +1,14 @@
+body {
+	background: #298eea;
+}
+
 .logo {
 	height: 35px;
 	width: auto;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 35px;
 }
 
 .sign-up-form {
@@ -14,19 +19,24 @@
 	margin-right: auto;
 }
 
+fieldset {
+	border: none;
+}
+
 .form-box {
 	width: 320px;
-	height: 55px;
+	height: 20px;
 	border: solid grey 2px;
 	padding: 15px;
+	margin-bottom: 20px;
 }
 
 button {
 	background-color: green;
-	width: 320px;
+	width: 352px;
 	height: 55px;
-	border: solid grey 2px;
 	padding: 15px;
+	border: none;
 }
 
 footer {
@@ -36,8 +46,4 @@ color: white;
 
 footer a {
 	color: white;
-}
-
-body {
-	background: #298eea;
 }
