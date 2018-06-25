@@ -1,0 +1,43 @@
+.logo {
+	height: 35px;
+	width: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sign-up-form {
+	width: 400px;
+	padding: 40px;
+	background: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.form-box {
+	width: 320px;
+	height: 55px;
+	border: solid grey 2px;
+	padding: 15px;
+}
+
+button {
+	background-color: green;
+	width: 320px;
+	height: 55px;
+	border: solid grey 2px;
+	padding: 15px;
+}
+
+footer {
+text-align: center;
+color: white;
+}
+
+footer a {
+	color: white;
+}
+
+body {
+	background: #298eea;
+}
